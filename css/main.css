@@ -1,5 +1,5 @@
 /*
- * style.css
+ * main.css
  * Nate B. Wangsutthitham
  * @natebwangsut | <nate.bwangsut@gmail.com>
  * Created March 30, 2018
@@ -20,7 +20,7 @@ html, body {
 }
 
 html {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', 'Arial', sans-serif;
 }
 
 body {
